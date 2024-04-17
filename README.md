@@ -73,4 +73,3 @@ Matheus Augusto -> [GitHub](https://github.com/matheusdalbone)
 
 Bruno Jacomelli -> [GitHub](https://github.com/brunojacomelli)
 
-// Em desenvolvimento
